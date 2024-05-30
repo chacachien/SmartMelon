@@ -1,7 +1,6 @@
-It is a single-page web application that allows users to manage their IOT devices.
 # SMARTMELON SYSTEM
 
-It is a single-page web application that allows users to manage their IOT devices. This app uses the MERN stack, which consists of MongoDB as the database, Express as the server framework, React as the user interface framework, and Node as the runtime environment. Beside, we also use Python to create a model to forecast the temperature and humidity.
+It is a single-page web application that allows users to manage their IOT devices. It is a single-page web application that allows users to manage their IOT devices. This app uses the MERN stack, which consists of MongoDB as the database, Express as the server framework, React as the user interface framework and Node as the runtime environment. Besides, we also use Python to create a model to forecast the temperature and humidity.
 
 ## Features
 
